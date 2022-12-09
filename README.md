@@ -1,4 +1,4 @@
-#idah-test-repository
+#test-repository
 
 ##Editing the file
 
